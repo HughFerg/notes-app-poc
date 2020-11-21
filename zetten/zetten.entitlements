@@ -9,6 +9,8 @@
 	<key>keychain-access-groups</key>
 	<array>
 		<string>$(AppIdentifierPrefix)me.zetten</string>
+		<string>$(AppIdentifierPrefix)com.HughFerguson.notes-poc-1</string>
+		<string>$(AppIdentifierPrefix)HughFerguson.zetten</string>
 	</array>
 </dict>
 </plist>
